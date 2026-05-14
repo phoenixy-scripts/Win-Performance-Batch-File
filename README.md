@@ -6,7 +6,7 @@
 Close any programs running, and then right click the batch file --> run as administrator
 
 if you have any questions about what this batch file does, feel free to reach out!
-**Note: this release is currently in beta so features are limited**
+**Note: this release is currently in beta so features are limited.**
 
 --------------------------------------------------------------------------------------------------------
 
