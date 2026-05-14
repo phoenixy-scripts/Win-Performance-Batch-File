@@ -1,5 +1,5 @@
 # Windows-Batch-File
-**Simple batch file to clean up and troubleshoot Windows**
+**Simple batch file to _speed_ up and _troubleshoot_ Windows**
 !! IMPORTANT !! this batch file will disable things like the spooler service, geolocation service, etc. 
 
 Close any programs running, and then right click the batch file --> run as administrator
