@@ -5,7 +5,7 @@
 
 **!! IMPORTANT !!** this batch file will disable things like the spooler service, geolocation service, etc. **If any of the services are neccessary for you then you can remove the line of code by right clicking the batch file --> _edit_ for windows 10 users _OR_ for windows 11 users --> _edit in notepad_.**
 
-# Installation
+# Using the tool
 Close any programs running, and then right click the batch file --> run as administrator
 
 # Extra
